@@ -1,0 +1,3 @@
+Currently User will throw an error if I attempt to actually add "implements InterfaceUser" because of the static methods. 
+Wondering if I should just remove User's static methods from InterfaceUser.
+Also, I made one static field in User, and that is, an ArrayList of all the existing Users. But I am wondering if that will not work in our JUnit tests. 

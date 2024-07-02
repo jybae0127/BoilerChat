@@ -1,0 +1,11 @@
+AUTHOR: username1
+TIMESTAMP: 349891873498198
+CONTENT:
+This is a sample message sent in the chat space. 
+It could potentially contain multiple lines. 
+---messageseparator---
+AUTHOR: username2
+TIMESTAMP: 458209809820920
+CONTENT: 
+This is a second message. 
+---messageseparator---
